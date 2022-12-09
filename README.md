@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @poelipopil
 - 🌱 I’m currently learning Java
+- 👨‍💼 Project Manager since 03.2022
+- 🐞 QA-engineer 01.2021 - 03.2022
 - 📫 How to reach me @nick_tsarev (Telegram)
 
 <!---
